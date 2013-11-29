@@ -2,6 +2,8 @@
 listopadove prazske #pyvo
 =========================
 
+.. warning:: work in progress
+
 listopadove prazske #pyvo [1] uz je tyden za nami, potreboval jsem sice cely vikend, abych dospal
 spankovy deficit, ale to jsem zdaleka neodchazel posledni. tentokrat nas na venecku [2] nechali do
 rekordnich asi pul druhe, za coz moc dekujeme.
