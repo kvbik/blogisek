@@ -22,13 +22,13 @@ ps: lanyrd.com ma super ics export pro guide, kam hazeme vsechny slovensko-ceske
 indexuje jako google kalendar [9], jestli si ho chcete pridat, staci kliknout.
 
 
-[1] http://lanyrd.com/2013/praha-pyvo-november/
-[2] https://foursquare.com/v/klub-na-v%C4%9Bne%C4%8Dku/4dd42e5a52b18e28aa0f1f6e
-[3] https://twitter.com/honzajavorek
-[4] https://twitter.com/rembish
-[5] http://en.wikipedia.org/wiki/Lightning_talk
-[6] TBD
-[7] http://lanyrd.com/2013/ostravske-pyvo-druhe/
-[8] http://lanyrd.com/guides/pyvo/pyvo.ics
-[9] TBD
+| [1] http://lanyrd.com/2013/praha-pyvo-november/
+| [2] https://foursquare.com/v/klub-na-v%C4%9Bne%C4%8Dku/4dd42e5a52b18e28aa0f1f6e
+| [3] https://twitter.com/honzajavorek
+| [4] https://twitter.com/rembish
+| [5] http://en.wikipedia.org/wiki/Lightning_talk
+| [6] TBD
+| [7] http://lanyrd.com/2013/ostravske-pyvo-druhe/
+| [8] http://lanyrd.com/guides/pyvo/pyvo.ics
+| [9] TBD
 
