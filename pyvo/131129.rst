@@ -21,7 +21,9 @@ prazskeho pyva: 2013/12/18 - ale to je prece jasne, protoze ani tentokrat to nen
 streda v mesici**.
 
 ps: lanyrd.com ma super ics export pro guide, kam hazeme vsechny slovensko-ceske pyva [8] a mne se
-indexuje jako google kalendar [9], jestli si ho chcete pridat, staci kliknout.
+indexuje jako google kalendar [9], jestli si ho chcete pridat, staci kliknout. trosku debilni je,
+ze v tom ics exportu mizi probehnute akce a google je tudiz maze i v tom kalendari.. nevite nekdo,
+co s tim?
 
 
 | [1] http://lanyrd.com/2013/praha-pyvo-november/
@@ -32,5 +34,5 @@ indexuje jako google kalendar [9], jestli si ho chcete pridat, staci kliknout.
 | [6] TBD
 | [7] http://lanyrd.com/2013/ostravske-pyvo-druhe/
 | [8] http://lanyrd.com/guides/pyvo/pyvo.ics
-| [9] TBD
+| [9] https://www.google.com/calendar/embed?src=6h72s1k6bun8omjopdcnqf0kjip2c9qe%40import.calendar.google.com&ctz=Europe/Prague
 
