@@ -31,7 +31,7 @@ co s tim?
 | [3] https://twitter.com/honzajavorek
 | [4] https://twitter.com/rembish
 | [5] http://en.wikipedia.org/wiki/Lightning_talk
-| [6] TBD
+| [6] http://bit.ly/prpylight
 | [7] http://lanyrd.com/2013/ostravske-pyvo-druhe/
 | [8] http://lanyrd.com/guides/pyvo/pyvo.ics
 | [9] https://www.google.com/calendar/embed?src=6h72s1k6bun8omjopdcnqf0kjip2c9qe%40import.calendar.google.com&ctz=Europe/Prague
