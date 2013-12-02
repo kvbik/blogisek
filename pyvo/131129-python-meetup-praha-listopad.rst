@@ -37,3 +37,7 @@ co s tim?
 __ http://lanyrd.com/guides/pyvo/pyvo.ics
 __ https://www.google.com/calendar/embed?src=6h72s1k6bun8omjopdcnqf0kjip2c9qe%40import.calendar.google.com&ctz=Europe/Prague
 
+ps2: doslova par `fotek a komentare na g+ prispevku`__, ciao..
+
+__ https://plus.google.com/u/0/110682730627902704385/posts/PfKE5VgpJ67
+
