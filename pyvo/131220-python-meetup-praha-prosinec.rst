@@ -3,7 +3,7 @@ prosincove prazske #pyvo
 ========================
 
 vcera byl treti ctvrtek [1] v mesici a ja misto toho, abych se pobudil s bolavou hlavou po spouste piv,
-jsem se probudil s hlavou nemocnou. to vite, takova zakerna rymicka a teplutka jednoho zkoli.
+jsem se probudil s hlavou nemocnou. to vite, takova zakerna rymicka a teplutka jednoho skoli.
 
 [1] http://lanyrd.com/2013/praha-pyvo-december/
 
