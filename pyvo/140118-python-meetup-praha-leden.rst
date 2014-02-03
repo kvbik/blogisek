@@ -11,10 +11,9 @@ __ http://en.wikipedia.org/wiki/Not_invented_here
 
 behem 4 delsich prednasek a 7 lightning talku se ani posluchaci neflakali - 2 sudy piva zkratka nestacily.
 peclive jsem cely vecer monitoroval, vsichni byli hodni, moc rychle se nepohybovali, takze na google plus
-panoramatku `nejsou rozmazani`__
+panoramatku `nejsou rozmazani`__.
 
-.. TODO google plus panorama
-__ https://plus.google.com/u/0/+JakubVysoky/posts
+__ https://plus.google.com/110682730627902704385/posts/ZMBqcTUqNKR
 
 ja jsem ovsem i tak radeji zbabele utekl a kolem pulnoci jsem byl uz doma. abych ale nezustal nic dluzen,
 doplnil jsem vsechny speakry a lightning talkare do lanyrd schedule a `martin bilek`__ hned druhy den
