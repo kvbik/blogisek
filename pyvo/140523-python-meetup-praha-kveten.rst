@@ -1,8 +1,8 @@
 
-majove prazske #pyvo 2014/5/22
-==============================
+majove prazske `#pyvo 2014/5/22`__
+==================================
 
-http://lanyrd.com/2014/praha-pyvo-may/
+__ http://lanyrd.com/2014/praha-pyvo-may/
 
 jak `jirka @whiskybar barton`__ rikal: "my cekali jaro a zatim prislo leto." a ten krasny teply vecer nam asi
 mirne narusil sraz. ty co neprisli, omlouva jedine to, ze sedeli nekde na zahradce, pili pivo a mysleli na nas ;)
