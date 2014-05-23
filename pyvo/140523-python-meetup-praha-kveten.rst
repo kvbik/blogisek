@@ -17,7 +17,7 @@ tema bylo #CMS (content management system), radek svarz a honza kral predstavili
 jsme, ze nam dorazi nekdo neco rict i o jinych, ale napriklad martin jahn behem sveho lightning talku o `wagtail`__
 sithnul zminit, ze `django cms`__ ho nijak nenadchlo, cimz jsem dosel k zaveru, ze to asi nepouziva nikdo.
 petr viktorin nam zase lightningtalknul o static site generatoru `pelican`__. jeho poznamka, ze pelican podporuje
-CNAME a 404 me trosku zarazila, ale vyjasnilo se, ze se jedna o podporuje napr pro hosting google pages,
+CNAME a 404 me trosku zarazila, ale vyjasnilo se, ze se jedna o podporuje napr pro hosting github pages,
 kde uz nejaka ta dynamika prichazi ke slovu, nicmene `fidorku za pozornost`__ jsem nedostal..
 
 __ http://mezzanine.jupo.org/
